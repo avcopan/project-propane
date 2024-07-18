@@ -1,0 +1,5 @@
+'name','smiles','inchi','inchikey','mult','charge'
+'C3y1','[CH2]CC','InChI=1S/C3H7/c1-3-2/h1,3H2,2H3','OCBFFGCSTGGPSQ-UHFFFAOYSA-N',2,0
+'C3p1','[O]OCCC','InChI=1S/C3H7O2/c1-2-3-5-4/h2-3H2,1H3','NALIQVLPVWZDOO-UHFFFAOYSA-N',2,0
+'O2','[O][O]','InChI=1S/O2/c1-2','MYMOFIZGZYHOMD-UHFFFAOYSA-N',3,0
+
